@@ -1,15 +1,15 @@
 import React from "react";
-import Image, { ImageProps } from "next/image";
+import { ImageProps } from "next/image";
 
 const LogoNavbar: React.FC<Omit<ImageProps, "src" | "alt">> = ({
-  width = 160,
-  height = 50,
+  width = 100,
+  height = 40,
   ...props
 }) => {
   return (
-    <Image
+    <img
       {...props}
-      src="/bountyz.jpg"
+      src="/logo9.png"
       alt="Bountyz Logo"
       width={width}
       height={height}

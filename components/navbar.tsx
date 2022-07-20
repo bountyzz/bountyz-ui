@@ -25,7 +25,9 @@ const Navbar: React.FC = () => {
       <div className="flex items-center">
         {loggedIn && auth && (
           <div className="flex items-center">
-            <p className="mr-4 pt-0.5">Wallet: {wallet}</p>
+            <p className="mr-4 pt-0.5">
+             {wallet}
+            </p>
             <a className="text-blue-dark text-md" onClick={handleLogoutClick}>
               Logout
             </a>

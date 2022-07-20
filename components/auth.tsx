@@ -52,11 +52,11 @@ const Auth: React.FC = () => {
       case UserType.UNENROLLED:
         router.push("/enroll");
         break;
-      case UserType.SPONSOR:
-        router.push("/sponsor");
+      case UserType.EMPLOYER:
+        router.push("/employer");
         break;
-      case UserType.LEARNER:
-        router.push("/learner");
+      case UserType.EMPLOYEE:
+        router.push("/employee");
         break;
       default:
         logout();

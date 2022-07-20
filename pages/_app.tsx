@@ -5,6 +5,7 @@ import { StoreProvider } from "../services/store";
 import Footer from "../components/footer";
 import dynamic from "next/dynamic";
 
+
 const Auth = dynamic(() => import("../components/auth"), {
   ssr: false,
 });
