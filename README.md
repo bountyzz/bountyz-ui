@@ -1,10 +1,10 @@
 <img src="./public/logo9.png" class="center"/>
 
 # Welcome to Bountyz.
-*Bountyz* - An All in one platform for **Crypto rewards** and **Incentives** 
-*Use Case 1* - Improves learner engagement and **increases completion** rate by incentivizing learning by streaming rewards.
-*Use Case 2* -  Organizations incentivizing learner if they lead a **healthy life style** (good sleep, exercise ) health data tracked by wearable’s
-*Use Case 3* -  Organizations, **Incentivizing sales force instantaneously** if they achieve their daily, weekly and monthly milestones.
+- Bountyz - An All in one platform for **Crypto rewards** and **Incentives** 
+- Use Case 1 - Improves learner engagement and **increases completion** rate by incentivizing learning by streaming rewards.
+- Use Case 2 -  Organizations incentivizing learner if they lead a **healthy life style** (good sleep, exercise ) health data tracked by wearable’s
+- Use Case 3 -  Organizations, **Incentivizing sales force instantaneously** if they achieve their daily, weekly and monthly milestones.
 ## Preamble 
 
 **COVID** has changed learning forever. There is a paradigm shift in the way people learnt pre and post COVID, there is high growth and adoption in Education Technology. We are experiencing an unplanned and rapid migration to online learning. A huge number of people started joining online courses to **reskill** and **upskill**.
