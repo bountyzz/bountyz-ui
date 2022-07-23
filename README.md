@@ -20,7 +20,7 @@ Learner's drop out rate is up by **67 %** with most of them leaving due to a lac
 To build an Platform (Bountyz) to reskill and upskill the learning community across the globe. Bountyz makes them more productive and efficient by providing personalized content, learning pathways with AI-driven recommendations (future roadmap) and by using LTEM (Learning-Transfer Evaluation / **Kirk Patricks Model**) to increase **ROI** on learners journey . Bountyz **Incentivizes** learners by streaming **rewards** when a certain **milestone** is achieved.
 
 ## Design Document
-* [Design Thinking](https://github.com/ramvittalkumar/Bountyz/blob/main/docs/design.md)
+* [Design Thinking](https://github.com/bountyzz/bountyz-ui/blob/main/docs/design.md)
 
 ## Our solution
 We created a dApp that can connect Sponsor and Learner together to achieve learning goals, that can create business impact for the organization. Sponsor can signup, onboard learners, create courses, assign reward for courses. Learner can learn the courses, take assessment and earn rewards in USDCx super token. Learner can unwrap the token to stable coin and withdraw to their exchange account.
